@@ -45,6 +45,16 @@ body{
     width: 300px;
 }
 
+.lasagna img {
+    height: auto;
+    width: 400px;
+}
+
+.hamburger img {
+    height: auto;
+    width: 400px;
+}
+
 .lasagna h1,
 .hamburger h1,
 .pizza h1{
