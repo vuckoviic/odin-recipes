@@ -1,0 +1,52 @@
+#main-page-h1{
+    background-color: beige;
+    color: green;
+    text-align: center;
+    font-weight: bold;
+}
+
+body{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-color: bisque;
+}
+
+.list{
+    font-size: 20px;
+    color: gold;
+}
+
+
+.lasagna,
+.hamburger,
+.pizza{
+    background-color: lightsalmon;
+}
+
+.lasagna h3,
+.hamburger h3,
+.pizza h3{
+    color: gold;
+}
+
+.lasagna p,
+.hamburger p,
+.pizza p{
+    color: gold;
+}
+
+.lasagna h1,
+.hamburger h1,
+.pizza h1{
+    color: forestgreen;
+}
+
+.pizza img {
+    height: auto;
+    width: 300px;
+}
+
+.lasagna h1,
+.hamburger h1,
+.pizza h1{
+    text-align: center;
+}
