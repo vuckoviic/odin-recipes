@@ -12,7 +12,7 @@ body{
 
 .list{
     font-size: 20px;
-    color: gold;
+    color: rgb(226, 205, 16);
 }
 
 
@@ -25,38 +25,39 @@ body{
 .lasagna h3,
 .hamburger h3,
 .pizza h3{
-    color: gold;
+    color: rgb(226, 124, 0);
+    font-size: 26px;
 }
 
 .lasagna p,
 .hamburger p,
 .pizza p{
     color: gold;
+    font-size: 20px;
 }
 
 .lasagna h1,
 .hamburger h1,
 .pizza h1{
-    color: forestgreen;
+    color: red;
 }
 
-.pizza img {
-    height: auto;
-    width: 300px;
-}
-
-.lasagna img {
-    height: auto;
-    width: 400px;
-}
-
+.lasagna img,
+.pizza img,
 .hamburger img {
     height: auto;
-    width: 400px;
+    width: 800px;
 }
 
 .lasagna h1,
 .hamburger h1,
 .pizza h1{
     text-align: center;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
 }
